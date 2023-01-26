@@ -1,0 +1,64 @@
+/*********************************************************************************
+ * This file is part of package WebHook Integration.
+ * 
+ * Author : Variance InfoTech PVT LTD (http://www.varianceinfotech.com)
+ * All rights (c) 2020 by Variance InfoTech PVT LTD
+ *
+ * This Version of WebHook Integration is licensed software and may only be used in 
+ * alignment with the License Agreement received with this Software.
+ * This Software is copyrighted and may not be further distributed without
+ * written consent of Variance InfoTech PVT LTD
+ * 
+ * You can contact via email at info@varianceinfotech.com
+ * 
+ ********************************************************************************/
+.webHookContainer table td {
+  vertical-align: middle;
+}
+.webHookContainer legend {
+  margin-bottom: 5px;
+  padding-left: 5px;
+}
+.webHookContainer select {
+  margin: 5px;
+}
+.webHookContainer input[type="button"] {
+  margin: 5px;
+}
+.webHookContainer > fieldset > div {
+  padding: 5px;
+}
+#action_description{
+  width: 200px;
+  margin-left: 5px;
+}
+#action_title{
+  width:218px;
+}
+#action_description{
+  width: 200px;
+  margin-left: 5px;
+}
+#paramtersRow{
+  margin-left: 38px;
+}
+#parametersValue{
+  margin-left: 59px;
+}
+.btn_parameter_minus{
+  width: 30px;
+}
+.parameterField{
+  margin-top:10px;
+  margin-left: 163px;
+}
+#no_authentication{
+  margin-left: 19px;
+}
+.btn_minus{
+  width: 30px;
+}
+#authFieldValue{
+  width: auto;
+  margin-left: 10px;
+}
